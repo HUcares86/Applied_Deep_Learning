@@ -1,0 +1,9 @@
+implicit==0.6.2
+transformers==4.24.0
+scipy==1.9.3
+pandas==1.5.2
+torch==1.12.1
+tqdm
+numpy
+gdown
+scikit-learn
